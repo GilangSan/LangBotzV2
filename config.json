@@ -1,0 +1,13 @@
+{
+  "ownerNumber": ["62895634865955@s.whatsapp.net"],
+  "ownerName": ["Langz"],
+  "botName": "LangBotz",
+  "sessionName": "LatinaQr",
+  "pathimg": "./media/Latina.jpg",
+  "gamewaktu": 90,
+  "limitCount": 25,
+  "gcount": {
+	"prem": 35,
+	"user": 25
+  }
+}
