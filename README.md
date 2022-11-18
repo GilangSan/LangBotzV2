@@ -16,5 +16,5 @@ $ cd LangBotzV1`
 
 # Settings
 
-[`config.json`](https://github.com/GilangSan/LangBotzV2/config.json)
+[`config.json`](https://github.com/GilangSan/LangBotzV2/blob/master/config.json)
 
